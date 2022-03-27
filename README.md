@@ -1,2 +1,2 @@
-### Pour lancer le serveur il vous suffit d'entrer la commande suivante sur votre terminal :  
+### Pour lancer le serveur il suffit d'entrer la commande suivante sur le terminal :  
 ## php -S localhost:8000

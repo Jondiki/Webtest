@@ -1,0 +1,329 @@
+* {}
+
+.main-container {
+    background-image: url("../assets/images/banner.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.par
+{font-size: 1.5em;
+    font-weight:500;
+}
+.event {
+    background-color: #5a6a5dd2;
+    width: 400px;
+    height: 150px;
+    color: white;
+    padding: 10px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: row;
+    text-align: start;
+
+
+}
+
+h3 {
+    margin-top: 0;
+}
+
+.eventForm {
+    background-color: #ffffff;
+    width: 250px;
+    height: 350px;
+    border-radius: 5px;
+    color: #5A6A5D;
+
+    padding: 10px;
+
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+.cake {
+    width: 220px;
+}
+
+.button {
+    background-color: #5A6A5D;
+    border: none;
+    color: white;
+    width: 100%;
+    height: 30px;
+
+}
+
+.text1 {
+    margin-top: 100px;
+    text-align: center;
+    color: #9C5E2F;
+    font-weight: bold;
+
+}
+
+.text2 {
+    margin-top: 150px;
+    text-align: center;
+    color: #9C5E2F;
+    font-weight: bold;
+
+}
+
+.text3 {
+
+    text-align: center;
+}
+
+.carousel {
+
+    background-size: cover;
+}
+
+#carouselExampleIndicators {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.carousel-item img {
+    width: 100%;
+    background-size: cover;
+    height: 5%;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    color: #5A6A5D;
+    border: none;
+    margin: auto;
+    text-align: center;
+
+}
+
+.container {
+
+    text-align: center;
+}
+
+#cardprice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    color: #5A6A5D;
+
+
+
+}
+
+#btn2 {
+    margin-top: 50px;
+}
+
+#card-body {
+
+    border: 2.5px solid #5A6A5D;
+    border-radius: 0%;
+}
+
+#card-body2 {
+
+
+    background-color: #DBE7DD;
+    height: 400px;
+}
+
+/* .btn_subscribe
+{
+   
+    border: none;
+    color: white;
+    width:100%;
+    height: 30px;
+} */
+.sub {
+    width: 100%;
+    background-color: #DBE7DD;
+    height: 200px;
+    border: 2px solid #5A6A5D;
+    margin-top: 100px;
+
+    display: flex;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.img_mail {
+    background-color: white;
+    margin-right: 0px;
+}
+
+.col-lg-4 a {
+    text-decoration: none;
+    color: #5A6A5D;
+    font-weight: bold;
+}
+
+#col1 {
+    background-color: #DBE7DD;
+    color: #5A6A5D;
+}
+
+#col2 {
+    color: #5A6A5D;
+
+    border: none;
+}
+
+
+.container2 {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 100px;
+
+}
+
+.imgresult {
+    display: flex;
+    align-items: flex-start;
+
+    width: 30%;
+}
+
+.form {
+
+    margin: 60px auto;
+    text-align: start;
+}
+
+.tab {
+    margin-right: 0px;
+    border: 3px solid #5A6A5D;
+    display: flex;
+    content: normal;
+    background-color: white;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.tab1 {
+
+    color: white;
+    background-color: #5A6A5D;
+    width: 100%;
+    height: 80%;
+
+}
+
+.tab2 {
+    background-color: white;
+
+    align-self: flex-end;
+    margin-top: auto;
+    width: 100%;
+    height: 30%;
+    color: #5A6A5D;
+}
+
+
+@media (max-width :800px) {
+
+    .main-container{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    .par
+    {
+/* {font-size: 1.2em;
+    font-weight:200; */
+}
+#birthday
+{
+    width: 80px;
+    height: 80px;
+}
+    .event{
+        margin: 20px auto;
+      width: 310px;
+        /* width: 60%; */
+        transition: 1s;
+    }
+    .eventForm{
+margin: 20px auto;
+transition: 1s;
+    }
+
+    .container {
+
+        text-align: center;
+        margin: center;
+    }
+
+    #cardprice {
+
+        width: 70%;
+        text-align: center;
+        margin: auto;
+
+        margin-top: 100px;
+        transition: 1s;
+
+    }
+
+    .text1,
+    .text2,
+    .text3 {
+        width: 70%;
+        text-align: center;
+        margin: auto;
+    }
+
+    .sub {
+        width: 90%;
+        transition: 1s;
+        margin: auto;
+    }
+
+    #contfoot{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin :auto;
+        text-align: center;
+
+    }
+    .col{
+        margin-bottom: 50px;
+    }
+    #carouselExampleIndicators
+    {
+        width: 90%;
+    }
+
+    .image1
+    {
+        background-image: url(./assets/images/slider/slider-1.jpg);
+    }
+}

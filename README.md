@@ -9,6 +9,7 @@ Créer un site web responsive à l'aide d'une maquette(jpg) répresentative
 - Avec un formulaire permetant d'entrer les donnéss pour organiser un evenement
 - Et une page qui affiche les données du formulaire 
 
+![maquette2](https://user-images.githubusercontent.com/55284362/183454972-bdafb60f-933c-4839-a936-2e10bbb32c9e.jpg)
 
 
 

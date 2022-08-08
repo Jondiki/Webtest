@@ -3,7 +3,7 @@
 ### Reproduire une maquette
 
 Créer un site web responsive à l'aide d'une maquette(jpg) répresentative 
-- formulire pour organiser un evenement
+- Avec un formulaire pour organiser un evenement
 
 
 

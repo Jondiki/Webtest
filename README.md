@@ -7,14 +7,14 @@
 
 Créer un site web responsive à l'aide d'une maquette(jpg) répresentative 
 - Avec un formulaire permetant d'entrer les donnéss pour organiser un evenement
-- Et une page qui affiche les données du formulaire 
+- Et une page differente qui affiche les resultats du formulaire 
 
 ![maquette2](https://user-images.githubusercontent.com/55284362/183454972-bdafb60f-933c-4839-a936-2e10bbb32c9e.jpg)
 
 
 
 ## Installation :
-### Pour lancer le serveur il suffit d'entrer la commande suivante sur le terminal :  
+### lancer le serveur avec la commande suivante sur le terminal :  
 ### php -S localhost:8000
 
 ## Languages :

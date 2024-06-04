@@ -5,8 +5,8 @@
 
 
 ## Installation :
-### lancer le serveur avec la commande suivante sur le terminal :  
-### php -S localhost:8000
+lancement du serveur avec la commande :  
+php -S localhost:8000
 
-## Languages :
-Html, Css, PHP
+## Outils :
+Bootstrap, Php

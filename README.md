@@ -8,5 +8,4 @@
 lancement du serveur avec la commande :  
 php -S localhost:8000
 
-## Outils :
-Bootstrap, Php
+

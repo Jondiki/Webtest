@@ -3,9 +3,8 @@
 
 ![maquette2](https://user-images.githubusercontent.com/55284362/183454972-bdafb60f-933c-4839-a936-2e10bbb32c9e.jpg)
 
-Test Technique / recrutement chez Transfer-leasing
 ## Installation :
-lancement du serveur avec la commande :  
+lancement du serveur :  
 php -S localhost:8000
 
 
